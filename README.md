@@ -1,2 +1,2 @@
-# LGM-VIP_DataScience-Intern
-it contains the file related to datascience intern at LGM
+# LGM-VIP-DataScience
+december data science intern program
